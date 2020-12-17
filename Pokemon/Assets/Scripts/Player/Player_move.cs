@@ -161,10 +161,14 @@ public class Player_move : MonoBehaviour
 
     void Grass()
     {
+    	
+
         if(Physics2D.OverlapCircle(transform.position,0.1f,LayerMask.GetMask("Grass")) != null)
         {
             if(Random.Range(1,101) <= 10)
             {
+            	PlayerPrefs.SetFloat("Pos x Outside", GameObject.Find("Main_Character").transform.position.x);
+        		PlayerPrefs.SetFloat("Pos y Outside", GameObject.Find("Main_Character").transform.position.y + 1);
                 SceneManager.LoadScene("Battle");
             }
         }
