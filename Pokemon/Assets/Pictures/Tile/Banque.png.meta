@@ -1,0 +1,2933 @@
+fileFormatVersion: 2
+guid: 509bd9f13c3cb9147b85b1a071c66386
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6515715445486317581
+    second: Banque_0
+  - first:
+      213: 9203085212319694232
+    second: Banque_1
+  - first:
+      213: -4035714233007818545
+    second: Banque_2
+  - first:
+      213: 144842117237643214
+    second: Banque_3
+  - first:
+      213: 4094211578692253037
+    second: Banque_4
+  - first:
+      213: -8748613345694194260
+    second: Banque_5
+  - first:
+      213: 3143858040221561436
+    second: Banque_6
+  - first:
+      213: -1188421007284089356
+    second: Banque_7
+  - first:
+      213: 2932332997097795447
+    second: Banque_8
+  - first:
+      213: -4327866658787244402
+    second: Banque_9
+  - first:
+      213: -9075963482291870016
+    second: Banque_10
+  - first:
+      213: 6438814751089643785
+    second: Banque_11
+  - first:
+      213: -6121986113391211460
+    second: Banque_12
+  - first:
+      213: -3056701875678187441
+    second: Banque_13
+  - first:
+      213: -6587787746892075772
+    second: Banque_14
+  - first:
+      213: 5852413334280736920
+    second: Banque_15
+  - first:
+      213: -3650009886089172004
+    second: Banque_16
+  - first:
+      213: 4124056964206928601
+    second: Banque_17
+  - first:
+      213: -2055586112318410117
+    second: Banque_18
+  - first:
+      213: 2842662969731396867
+    second: Banque_19
+  - first:
+      213: -3229389376837807412
+    second: Banque_20
+  - first:
+      213: -2703117229477006883
+    second: Banque_21
+  - first:
+      213: -5574278292449712382
+    second: Banque_22
+  - first:
+      213: -3433119075319390447
+    second: Banque_23
+  - first:
+      213: 9219627627297700983
+    second: Banque_24
+  - first:
+      213: 4217985605191135464
+    second: Banque_25
+  - first:
+      213: -7941938929838621527
+    second: Banque_26
+  - first:
+      213: 8798135170762724269
+    second: Banque_27
+  - first:
+      213: 1283276291398730059
+    second: Banque_28
+  - first:
+      213: 5788804654909635193
+    second: Banque_29
+  - first:
+      213: 6215322381518762550
+    second: Banque_30
+  - first:
+      213: -5683889666575767004
+    second: Banque_31
+  - first:
+      213: 1094396385160929305
+    second: Banque_32
+  - first:
+      213: -2220747159128110264
+    second: Banque_33
+  - first:
+      213: 3326679775031350040
+    second: Banque_34
+  - first:
+      213: -6700624255560108833
+    second: Banque_35
+  - first:
+      213: 5431615843822117272
+    second: Banque_36
+  - first:
+      213: -6058244247261945368
+    second: Banque_37
+  - first:
+      213: 3345251213569727644
+    second: Banque_38
+  - first:
+      213: 5527167728288869189
+    second: Banque_39
+  - first:
+      213: -6268795612199543627
+    second: Banque_40
+  - first:
+      213: -5255423614878220338
+    second: Banque_41
+  - first:
+      213: 2083045714121880769
+    second: Banque_42
+  - first:
+      213: -682981005920548376
+    second: Banque_43
+  - first:
+      213: -7681449581004573146
+    second: Banque_44
+  - first:
+      213: 3572992011076200773
+    second: Banque_45
+  - first:
+      213: -1836654716347034105
+    second: Banque_46
+  - first:
+      213: 6162463903431455149
+    second: Banque_47
+  - first:
+      213: 6161911878041390039
+    second: Banque_48
+  - first:
+      213: 1272152866751061015
+    second: Banque_49
+  - first:
+      213: 5052104008641135728
+    second: Banque_50
+  - first:
+      213: -4840237055179142456
+    second: Banque_51
+  - first:
+      213: 5526175007175586099
+    second: Banque_52
+  - first:
+      213: 4031359010422258223
+    second: Banque_53
+  - first:
+      213: 7043079937278069303
+    second: Banque_54
+  - first:
+      213: 4352745723666691863
+    second: Banque_55
+  - first:
+      213: 7712031050731239392
+    second: Banque_56
+  - first:
+      213: -3403803163998742409
+    second: Banque_57
+  - first:
+      213: 416310824734784814
+    second: Banque_58
+  - first:
+      213: 8204013230211517243
+    second: Banque_59
+  - first:
+      213: 5436257913228941582
+    second: Banque_60
+  - first:
+      213: 893786430257857421
+    second: Banque_61
+  - first:
+      213: -7554606794270758496
+    second: Banque_62
+  - first:
+      213: -5703599110181908017
+    second: Banque_63
+  - first:
+      213: 3101563318534047502
+    second: Banque_64
+  - first:
+      213: 2946009428068278614
+    second: Banque_65
+  - first:
+      213: -255937423381949121
+    second: Banque_66
+  - first:
+      213: -2820011428078108132
+    second: Banque_67
+  - first:
+      213: -3818818599503091418
+    second: Banque_68
+  - first:
+      213: -5653649217790653239
+    second: Banque_69
+  - first:
+      213: -1225332250693081930
+    second: Banque_70
+  - first:
+      213: -1633741401930654589
+    second: Banque_71
+  - first:
+      213: -607785344654550237
+    second: Banque_72
+  - first:
+      213: -7253211182742940225
+    second: Banque_73
+  - first:
+      213: 9633528640525378
+    second: Banque_74
+  - first:
+      213: -8628117206633360919
+    second: Banque_75
+  - first:
+      213: 2993394438841920731
+    second: Banque_76
+  - first:
+      213: -9134338922337543558
+    second: Banque_77
+  - first:
+      213: -8436440028707223647
+    second: Banque_78
+  - first:
+      213: 4350724600991404203
+    second: Banque_79
+  - first:
+      213: -6997307712855450301
+    second: Banque_80
+  - first:
+      213: 7277991044792797037
+    second: Banque_81
+  - first:
+      213: -796783043122100018
+    second: Banque_82
+  - first:
+      213: 5333445389305118373
+    second: Banque_83
+  - first:
+      213: -6885650878332080491
+    second: Banque_84
+  - first:
+      213: 962756862348654589
+    second: Banque_85
+  - first:
+      213: -3095225339049835106
+    second: Banque_86
+  - first:
+      213: -3984193825849452580
+    second: Banque_87
+  - first:
+      213: 3424485337768556977
+    second: Banque_88
+  - first:
+      213: -3555056942028276585
+    second: Banque_89
+  - first:
+      213: -4243764941829896442
+    second: Banque_90
+  - first:
+      213: 4073629803005972676
+    second: Banque_91
+  - first:
+      213: -6681117380854127981
+    second: Banque_92
+  - first:
+      213: 8860602165480870363
+    second: Banque_93
+  - first:
+      213: 8157223312452866487
+    second: Banque_94
+  - first:
+      213: -7901590511616978554
+    second: Banque_95
+  - first:
+      213: 1386655033587075729
+    second: Banque_96
+  - first:
+      213: -4618534830020902603
+    second: Banque_97
+  - first:
+      213: -7608969921303743438
+    second: Banque_98
+  - first:
+      213: 2435564154106148555
+    second: Banque_99
+  - first:
+      213: 6502917825050735624
+    second: Banque_100
+  - first:
+      213: 1947763556371806620
+    second: Banque_101
+  - first:
+      213: -4684627433761810396
+    second: Banque_102
+  - first:
+      213: -8958209087644469678
+    second: Banque_103
+  - first:
+      213: -5719724939660570631
+    second: Banque_104
+  - first:
+      213: 1712321596071331380
+    second: Banque_105
+  - first:
+      213: 2772370828201020525
+    second: Banque_106
+  - first:
+      213: -308045168167334423
+    second: Banque_107
+  - first:
+      213: -6921158003330982241
+    second: Banque_108
+  - first:
+      213: -5434322237583555796
+    second: Banque_109
+  - first:
+      213: 3713129909678819926
+    second: Banque_110
+  - first:
+      213: 7574263379703550948
+    second: Banque_111
+  - first:
+      213: -1186416348312809078
+    second: Banque_112
+  - first:
+      213: -5841195305099693558
+    second: Banque_113
+  - first:
+      213: -8513774183815563591
+    second: Banque_114
+  - first:
+      213: 2406438184832001506
+    second: Banque_115
+  - first:
+      213: 3795503982878392559
+    second: Banque_116
+  - first:
+      213: 4778127037250840896
+    second: Banque_117
+  - first:
+      213: 7728622150082353671
+    second: Banque_118
+  - first:
+      213: -8323951909037813532
+    second: Banque_119
+  - first:
+      213: -6822815015607211059
+    second: Banque_120
+  - first:
+      213: -5772262058949458297
+    second: Banque_121
+  - first:
+      213: -3723965424898163198
+    second: Banque_122
+  - first:
+      213: -8541011568945495578
+    second: Banque_123
+  - first:
+      213: -7603086103483657637
+    second: Banque_124
+  - first:
+      213: 1687265416450283556
+    second: Banque_125
+  - first:
+      213: -6635803676867611184
+    second: Banque_126
+  - first:
+      213: -220725884527335658
+    second: Banque_127
+  - first:
+      213: 2511765971815666798
+    second: Banque_128
+  - first:
+      213: 5383114458560356155
+    second: Banque_129
+  - first:
+      213: -8390218355253711677
+    second: Banque_130
+  - first:
+      213: 5052166714752062576
+    second: Banque_131
+  - first:
+      213: -3958509809218736324
+    second: Banque_132
+  - first:
+      213: -3649532723869621655
+    second: Banque_133
+  - first:
+      213: -1221233310020709028
+    second: Banque_134
+  - first:
+      213: 6120451269776747350
+    second: Banque_135
+  - first:
+      213: -899474736023980080
+    second: Banque_136
+  - first:
+      213: 7709941162083688137
+    second: Banque_137
+  - first:
+      213: -4747853161276874477
+    second: Banque_138
+  - first:
+      213: 6344523027537599202
+    second: Banque_139
+  - first:
+      213: -2912281828205348800
+    second: Banque_140
+  - first:
+      213: -5905760953142296981
+    second: Banque_141
+  - first:
+      213: 728217121623853779
+    second: Banque_142
+  - first:
+      213: 4773907048317637793
+    second: Banque_143
+  - first:
+      213: 7113235795440673453
+    second: Banque_144
+  - first:
+      213: -6937277787432058941
+    second: Banque_145
+  - first:
+      213: 3775400733868474332
+    second: Banque_146
+  - first:
+      213: 7488516918882147082
+    second: Banque_147
+  - first:
+      213: -9043915331796665564
+    second: Banque_148
+  - first:
+      213: -6992518816855297053
+    second: Banque_149
+  - first:
+      213: 8554237197138369394
+    second: Banque_150
+  - first:
+      213: -7985220058808248422
+    second: Banque_151
+  - first:
+      213: 6555432288361978771
+    second: Banque_152
+  - first:
+      213: -7800334804492322959
+    second: Banque_153
+  - first:
+      213: -4549565317265158161
+    second: Banque_154
+  - first:
+      213: 6384591170671865017
+    second: Banque_155
+  - first:
+      213: -3438650953933522950
+    second: Banque_156
+  - first:
+      213: -2075237039184555297
+    second: Banque_157
+  - first:
+      213: -6284383862888156633
+    second: Banque_158
+  - first:
+      213: 7373848120299727659
+    second: Banque_159
+  - first:
+      213: -8672923613481209708
+    second: Banque_160
+  - first:
+      213: 1487335748303582709
+    second: Banque_161
+  - first:
+      213: 7379579948329377368
+    second: Banque_162
+  - first:
+      213: 6070899574808062014
+    second: Banque_163
+  - first:
+      213: -129412361651494800
+    second: Banque_164
+  - first:
+      213: 2190061725615562936
+    second: Banque_165
+  - first:
+      213: -4485072277732073530
+    second: Banque_166
+  - first:
+      213: 2252076285304737655
+    second: Banque_167
+  - first:
+      213: -5733507305962652156
+    second: Banque_168
+  - first:
+      213: 4975304556923111845
+    second: Banque_169
+  - first:
+      213: 3480795961037796127
+    second: Banque_170
+  - first:
+      213: -1628512948643828872
+    second: Banque_171
+  - first:
+      213: 8021294043298899705
+    second: Banque_172
+  - first:
+      213: 9210794339015806974
+    second: Banque_173
+  - first:
+      213: 3536058624752732634
+    second: Banque_174
+  - first:
+      213: 7275665347481499441
+    second: Banque_175
+  - first:
+      213: -3600073536524803910
+    second: Banque_176
+  - first:
+      213: 7934981747750955394
+    second: Banque_177
+  - first:
+      213: 2297783186571532823
+    second: Banque_178
+  - first:
+      213: 3165548480606807595
+    second: Banque_179
+  - first:
+      213: 7130823787721070565
+    second: Banque_180
+  - first:
+      213: 1989664834476381631
+    second: Banque_181
+  - first:
+      213: -339902737414681079
+    second: Banque_182
+  - first:
+      213: 222195902805043780
+    second: Banque_183
+  - first:
+      213: 7575154918404646776
+    second: Banque_184
+  - first:
+      213: -7695409365415647469
+    second: Banque_185
+  - first:
+      213: 3456665141243461841
+    second: Banque_186
+  - first:
+      213: 7006472737588095724
+    second: Banque_187
+  - first:
+      213: 1710730636193762393
+    second: Banque_188
+  - first:
+      213: 5527901330984589594
+    second: Banque_189
+  - first:
+      213: 1316232516118707204
+    second: Banque_190
+  - first:
+      213: 2568292713362846291
+    second: Banque_191
+  - first:
+      213: 6033803139066154106
+    second: Banque_192
+  - first:
+      213: 1348537800238262896
+    second: Banque_193
+  - first:
+      213: 1659749797412775982
+    second: Banque_194
+  - first:
+      213: -8149003304860599334
+    second: Banque_195
+  - first:
+      213: -4325171396033298455
+    second: Banque_196
+  - first:
+      213: -9046433548221572225
+    second: Banque_197
+  - first:
+      213: -1905118065712989461
+    second: Banque_198
+  - first:
+      213: 4547094768949256568
+    second: Banque_199
+  - first:
+      213: 7221108113957138441
+    second: Banque_200
+  - first:
+      213: 446572119079960365
+    second: Banque_201
+  - first:
+      213: 775554593082734164
+    second: Banque_202
+  - first:
+      213: 4536627189887126226
+    second: Banque_203
+  - first:
+      213: 9187363385997496570
+    second: Banque_204
+  - first:
+      213: 4209857071839007606
+    second: Banque_205
+  - first:
+      213: -3792148283657888052
+    second: Banque_206
+  - first:
+      213: -8980279872937221340
+    second: Banque_207
+  - first:
+      213: 7421080673456161141
+    second: Banque_208
+  - first:
+      213: 9199197523313232358
+    second: Banque_209
+  - first:
+      213: 3573144456489281635
+    second: Banque_210
+  - first:
+      213: -8331792560230070989
+    second: Banque_211
+  - first:
+      213: 4511304515229904131
+    second: Banque_212
+  - first:
+      213: -1659189403909098188
+    second: Banque_213
+  - first:
+      213: 4327163126782463738
+    second: Banque_214
+  - first:
+      213: 8216633834541798842
+    second: Banque_215
+  - first:
+      213: 8991166443068488011
+    second: Banque_216
+  - first:
+      213: 5646190188604713550
+    second: Banque_217
+  - first:
+      213: -2460340068202756852
+    second: Banque_218
+  - first:
+      213: 3749556668792844634
+    second: Banque_219
+  - first:
+      213: -6763850075639334074
+    second: Banque_220
+  - first:
+      213: 4564745002195605723
+    second: Banque_221
+  - first:
+      213: -5963398095932932014
+    second: Banque_222
+  - first:
+      213: 4214073599865721632
+    second: Banque_223
+  - first:
+      213: -3693449825675936116
+    second: Banque_224
+  - first:
+      213: 4399491824324849333
+    second: Banque_225
+  - first:
+      213: 5511081151690262699
+    second: Banque_226
+  - first:
+      213: -8131945798608176136
+    second: Banque_227
+  - first:
+      213: -3170552086521502678
+    second: Banque_228
+  - first:
+      213: 4221392664442585838
+    second: Banque_229
+  - first:
+      213: 5783063658132545993
+    second: Banque_230
+  - first:
+      213: -1453468587057792460
+    second: Banque_231
+  - first:
+      213: -4469929219522362033
+    second: Banque_232
+  - first:
+      213: -7753932318861607120
+    second: Banque_233
+  - first:
+      213: 3364891049377552368
+    second: Banque_234
+  - first:
+      213: -6327619468197184190
+    second: Banque_235
+  - first:
+      213: 9108256115334269384
+    second: Banque_236
+  - first:
+      213: 5284687170416539122
+    second: Banque_237
+  - first:
+      213: 5451028377062783584
+    second: Banque_238
+  - first:
+      213: 5816761214053906106
+    second: Banque_239
+  - first:
+      213: 5829545573892530765
+    second: Banque_240
+  - first:
+      213: 7854883177782567170
+    second: Banque_241
+  - first:
+      213: 5944203315495281460
+    second: Banque_242
+  - first:
+      213: 2014481109369679881
+    second: Banque_243
+  - first:
+      213: -3206399438104764756
+    second: Banque_244
+  - first:
+      213: 1549363432477834189
+    second: Banque_245
+  - first:
+      213: -2324160557936094227
+    second: Banque_246
+  - first:
+      213: -2452796960403053226
+    second: Banque_247
+  - first:
+      213: -4605405610666810290
+    second: Banque_248
+  - first:
+      213: -4685297199297387455
+    second: Banque_249
+  - first:
+      213: -6752103197575284921
+    second: Banque_250
+  - first:
+      213: -6369683752528011451
+    second: Banque_251
+  - first:
+      213: -6518861394279793896
+    second: Banque_252
+  - first:
+      213: 8060106309244847910
+    second: Banque_253
+  - first:
+      213: -7734619704700957632
+    second: Banque_254
+  - first:
+      213: -6688104391960983201
+    second: Banque_255
+  - first:
+      213: -4469804038601385164
+    second: Banque_256
+  - first:
+      213: -8879567236001204946
+    second: Banque_257
+  - first:
+      213: 5167509865925971924
+    second: Banque_258
+  - first:
+      213: -1856358585680429503
+    second: Banque_259
+  - first:
+      213: 3966217642725982511
+    second: Banque_260
+  - first:
+      213: 5624472641082542781
+    second: Banque_261
+  - first:
+      213: 7334360987810480930
+    second: Banque_262
+  - first:
+      213: 3085162641967795169
+    second: Banque_263
+  - first:
+      213: 5429434343968766767
+    second: Banque_264
+  - first:
+      213: -3793471408943712709
+    second: Banque_265
+  - first:
+      213: -7193925145912804650
+    second: Banque_266
+  - first:
+      213: -631753774482683632
+    second: Banque_267
+  - first:
+      213: 7554816301777598874
+    second: Banque_268
+  - first:
+      213: -7989793422383863420
+    second: Banque_269
+  - first:
+      213: 3826599291802212298
+    second: Banque_270
+  - first:
+      213: 6635765003298922067
+    second: Banque_271
+  - first:
+      213: 4932506858246812876
+    second: Banque_272
+  - first:
+      213: -5263565958930280870
+    second: Banque_273
+  - first:
+      213: -3580270244333420296
+    second: Banque_274
+  - first:
+      213: -5923325866797385778
+    second: Banque_275
+  - first:
+      213: -7915882320036376284
+    second: Banque_276
+  - first:
+      213: -6245765057589369074
+    second: Banque_277
+  - first:
+      213: 7857708119901405991
+    second: Banque_278
+  - first:
+      213: -6928393497180292221
+    second: Banque_279
+  - first:
+      213: 8852307733247575340
+    second: Banque_280
+  - first:
+      213: -8689262633301379622
+    second: Banque_281
+  - first:
+      213: 5854897734789550778
+    second: Banque_282
+  - first:
+      213: -5203543199571521232
+    second: Banque_283
+  - first:
+      213: 1731503672821079749
+    second: Banque_284
+  - first:
+      213: -8505496096436152216
+    second: Banque_285
+  - first:
+      213: 6264904230379592057
+    second: Banque_286
+  - first:
+      213: 1005804112037525665
+    second: Banque_287
+  - first:
+      213: 3085915806863484856
+    second: Banque_288
+  - first:
+      213: -177941958635517845
+    second: Banque_289
+  - first:
+      213: 8845356190928980455
+    second: Banque_290
+  - first:
+      213: 2645150974874285024
+    second: Banque_0
+  - first:
+      213: -5263558701492881324
+    second: Banque_1
+  - first:
+      213: 3938873339559955765
+    second: Banque_2
+  - first:
+      213: 5820046510750463402
+    second: Banque_3
+  - first:
+      213: -6111472477563344511
+    second: Banque_4
+  - first:
+      213: 6663181939954951336
+    second: Banque_5
+  - first:
+      213: 200978126877104249
+    second: Banque_6
+  - first:
+      213: -4199601280010708550
+    second: Banque_7
+  - first:
+      213: 8907591097960295724
+    second: Banque_8
+  - first:
+      213: -2316782313734910776
+    second: Banque_9
+  - first:
+      213: 960961576458796338
+    second: Banque_10
+  - first:
+      213: -2433819361735981812
+    second: Banque_11
+  - first:
+      213: 7962407956955613503
+    second: Banque_12
+  - first:
+      213: 7841200126059188303
+    second: Banque_13
+  - first:
+      213: -8195650946194141934
+    second: Banque_14
+  - first:
+      213: -4032285988672485541
+    second: Banque_15
+  - first:
+      213: -4622652897787549026
+    second: Banque_16
+  - first:
+      213: -3697435236022939638
+    second: Banque_17
+  - first:
+      213: 9022922156936433328
+    second: Banque_18
+  - first:
+      213: -4742148866219003229
+    second: Banque_19
+  - first:
+      213: -7529901294658680609
+    second: Banque_20
+  - first:
+      213: -2956350898031910018
+    second: Banque_21
+  - first:
+      213: 1095817417147598357
+    second: Banque_22
+  - first:
+      213: -2264132733364020577
+    second: Banque_23
+  - first:
+      213: 6259770349613320401
+    second: Banque_24
+  - first:
+      213: 4857296482648273945
+    second: Banque_25
+  - first:
+      213: -6024920265584572125
+    second: Banque_26
+  - first:
+      213: -5495831065279951788
+    second: Banque_27
+  - first:
+      213: -5857161903006140951
+    second: Banque_28
+  - first:
+      213: -7161589036733239646
+    second: Banque_29
+  - first:
+      213: 7441042562025276028
+    second: Banque_30
+  - first:
+      213: 43175868789846712
+    second: Banque_31
+  - first:
+      213: -8725922404726513306
+    second: Banque_32
+  - first:
+      213: 7062973638995807200
+    second: Banque_33
+  - first:
+      213: -6047474528995900281
+    second: Banque_34
+  - first:
+      213: -7708540460509171789
+    second: Banque_35
+  - first:
+      213: 5159549570271776348
+    second: Banque_36
+  - first:
+      213: 789930621913677261
+    second: Banque_37
+  - first:
+      213: -6650442076186998846
+    second: Banque_38
+  - first:
+      213: -3747098153764785937
+    second: Banque_39
+  - first:
+      213: -6743050118874220879
+    second: Banque_40
+  - first:
+      213: -1113350325419903884
+    second: Banque_41
+  - first:
+      213: -5607332445084862261
+    second: Banque_42
+  - first:
+      213: 4409876102852516238
+    second: Banque_43
+  - first:
+      213: 7088514924582231360
+    second: Banque_44
+  - first:
+      213: -5377319855735692598
+    second: Banque_45
+  - first:
+      213: -5560339077370266647
+    second: Banque_46
+  - first:
+      213: 3457296019032092909
+    second: Banque_47
+  - first:
+      213: 6627907741918519347
+    second: Banque_48
+  - first:
+      213: 5284929408464649073
+    second: Banque_49
+  - first:
+      213: -1315914139771170202
+    second: Banque_50
+  - first:
+      213: 2363276195525337483
+    second: Banque_51
+  - first:
+      213: -3800907053917128696
+    second: Banque_52
+  - first:
+      213: -8782237439488807732
+    second: Banque_53
+  - first:
+      213: -219965253714999011
+    second: Banque_54
+  - first:
+      213: -898683768457987755
+    second: Banque_55
+  - first:
+      213: -3518523514028849835
+    second: Banque_56
+  - first:
+      213: -3354588530087779553
+    second: Banque_57
+  - first:
+      213: 852494875243908810
+    second: Banque_58
+  - first:
+      213: -3749639214487610437
+    second: Banque_59
+  - first:
+      213: 4146257021594307609
+    second: Banque_60
+  - first:
+      213: -1297023720903529603
+    second: Banque_61
+  - first:
+      213: 8789849983334252854
+    second: Banque_62
+  - first:
+      213: 3875375432022911113
+    second: Banque_63
+  - first:
+      213: 8066153440249852806
+    second: Banque_64
+  - first:
+      213: 6006929894020153512
+    second: Banque_65
+  - first:
+      213: 6243942663154213998
+    second: Banque_66
+  - first:
+      213: 1660251596285664693
+    second: Banque_67
+  - first:
+      213: 7077084739808046784
+    second: Banque_68
+  - first:
+      213: 4316688196523158251
+    second: Banque_69
+  - first:
+      213: 146741299555417193
+    second: Banque_70
+  - first:
+      213: -6176810209980763549
+    second: Banque_71
+  - first:
+      213: 8726093356972693780
+    second: Banque_72
+  - first:
+      213: -5934962609639778250
+    second: Banque_73
+  - first:
+      213: 780339246661411574
+    second: Banque_74
+  - first:
+      213: 6040140673147830652
+    second: Banque_75
+  - first:
+      213: 3860438954212798099
+    second: Banque_76
+  - first:
+      213: -1206318484761785279
+    second: Banque_77
+  - first:
+      213: -5078384256858217650
+    second: Banque_78
+  - first:
+      213: 3713004918220719611
+    second: Banque_79
+  - first:
+      213: -3053457419901083582
+    second: Banque_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Banque_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f8aa0cc675b420800000000000000
+      internalID: 2645150974874285024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b91f9f3514f6b0800000000000000
+      internalID: -5263558701492881324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d4abbee60b9a630800000000000000
+      internalID: 3938873339559955765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa578813775f4c050800000000000000
+      internalID: 5820046510750463402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a2406920bf2ba0800000000000000
+      internalID: -6111472477563344511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a420dcdba0687c50800000000000000
+      internalID: 6663181939954951336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9781224aa840ac200800000000000000
+      internalID: 200978126877104249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99fa2e2e408b5c0800000000000000
+      internalID: -4199601280010708550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dea5eb8ee1e9b70800000000000000
+      internalID: 8907591097960295724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4cefa2c229dfd0800000000000000
+      internalID: -2316782313734910776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d30af5675065d00800000000000000
+      internalID: 960961576458796338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0542487f26593ed0800000000000000
+      internalID: -2433819361735981812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394517a9d7208e60800000000000000
+      internalID: 7962407956955613503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40918e58f981dc60800000000000000
+      internalID: 7841200126059188303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d010903e2334e80800000000000000
+      internalID: -8195650946194141934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57446cd1417a08c0800000000000000
+      internalID: -4032285988672485541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a617b6ea909dfb0800000000000000
+      internalID: -4622652897787549026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0017d02e3210bcc0800000000000000
+      internalID: -3697435236022939638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be823075ebd73d70800000000000000
+      internalID: 9022922156936433328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2befc2bb0803eb0800000000000000
+      internalID: -4742148866219003229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd88d1aeaaa608790800000000000000
+      internalID: -7529901294658680609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73a66b858ee8f6d0800000000000000
+      internalID: -2956350898031910018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516c4cf8220253f00800000000000000
+      internalID: 1095817417147598357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad08f564f2490e0800000000000000
+      internalID: -2264132733364020577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d88930a7fb2fd650800000000000000
+      internalID: 6259770349613320401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91431097a65986340800000000000000
+      internalID: 4857296482648273945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32987c990fe236ca0800000000000000
+      internalID: -6024920265584572125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c8e68a3c2eab3b0800000000000000
+      internalID: -5495831065279951788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e53e53284e27bea0800000000000000
+      internalID: -5857161903006140951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeee2ef6bcec9c90800000000000000
+      internalID: -7161589036733239646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72441c29c4e34760800000000000000
+      internalID: 7441042562025276028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b276125934699000800000000000000
+      internalID: 43175868789846712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66167a80ecb47e680800000000000000
+      internalID: -8725922404726513306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0b4a7a19b40260800000000000000
+      internalID: 7062973638995807200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7840afee4fd031ca0800000000000000
+      internalID: -6047474528995900281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfef92fa43c50590800000000000000
+      internalID: -7708540460509171789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e81196ff66a9740800000000000000
+      internalID: 5159549570271776348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd3e5427b566fa00800000000000000
+      internalID: 789930621913677261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70091da22e4b3a0800000000000000
+      internalID: -6650442076186998846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0f3560512affbc0800000000000000
+      internalID: -3747098153764785937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6b8d1a4afdb62a0800000000000000
+      internalID: -6743050118874220879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f7ce17c59c80f0800000000000000
+      internalID: -1113350325419903884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8b131a9d0ce22b0800000000000000
+      internalID: -5607332445084862261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89120673f6033d30800000000000000
+      internalID: 4409876102852516238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d57c074c67f5260800000000000000
+      internalID: 7088514924582231360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2283bd41cef55b0800000000000000
+      internalID: -5377319855735692598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3f9ea115b5d2b0800000000000000
+      internalID: -5560339077370266647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b7c96968caff20800000000000000
+      internalID: 3457296019032092909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306d11a9fe0bfb50800000000000000
+      internalID: 6627907741918519347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bfc86db47d75940800000000000000
+      internalID: 5284929408464649073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629608df0fecbde0800000000000000
+      internalID: -1315914139771170202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81ac6cbd2b0cc020800000000000000
+      internalID: 2363276195525337483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8083efa2c27704bc0800000000000000
+      internalID: -3800907053917128696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc222e34993f1680800000000000000
+      internalID: -8782237439488807732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19836564c682fcf0800000000000000
+      internalID: -219965253714999011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f6afbfdb3783f0800000000000000
+      internalID: -898683768457987755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55583748181bb2fc0800000000000000
+      internalID: -3518523514028849835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13a488518b1271d0800000000000000
+      internalID: -3354588530087779553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace01c3829ba4db00800000000000000
+      internalID: 852494875243908810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5798300b96fbc0800000000000000
+      internalID: -3749639214487610437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c09971bc67a8930800000000000000
+      internalID: 4146257021594307609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b2a4a3ccb000ee0800000000000000
+      internalID: -1297023720903529603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6318c9d3df1dbf970800000000000000
+      internalID: 8789849983334252854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988600d3c6918c530800000000000000
+      internalID: 3875375432022911113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68333ed41dbb0ff60800000000000000
+      internalID: 8066153440249852806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00fbb99e6ec5350800000000000000
+      internalID: 6006929894020153512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a63335c0f6a650800000000000000
+      internalID: 6243942663154213998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdd16ac7066a0710800000000000000
+      internalID: 1660251596285664693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cea899231bd63260800000000000000
+      internalID: 7077084739808046784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea62ef3b05f7eb30800000000000000
+      internalID: 4316688196523158251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c31e93f64590200800000000000000
+      internalID: 146741299555417193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362371517df874aa0800000000000000
+      internalID: -6176810209980763549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419d043ecaf491970800000000000000
+      internalID: 8726093356972693780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638123983f6c2ada0800000000000000
+      internalID: -5934962609639778250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2ac81196254da00800000000000000
+      internalID: 780339246661411574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c718d50b0f3e2d350800000000000000
+      internalID: 6040140673147830652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e2fee76c8039530800000000000000
+      internalID: 3860438954212798099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c49cdbabb424fe0800000000000000
+      internalID: -1206318484761785279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43a701cc64f589b0800000000000000
+      internalID: -5078384256858217650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf503dffc4e378330800000000000000
+      internalID: 3713004918220719611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banque_80
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e30e87a0ff95d0800000000000000
+      internalID: -3053457419901083582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

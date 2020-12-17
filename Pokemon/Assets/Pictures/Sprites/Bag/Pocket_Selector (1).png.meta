@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 6cacd696000d8ba4cb4bffc648049dbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9120433496704519928
+    second: Pocket_Selector (1)_0
+  - first:
+      213: 2053218295229153236
+    second: Pocket_Selector (1)_1
+  - first:
+      213: -888645778300134511
+    second: Pocket_Selector (1)_2
+  - first:
+      213: 6791198812432347051
+    second: Pocket_Selector (1)_3
+  - first:
+      213: -2102695709477580403
+    second: Pocket_Selector (1)_4
+  - first:
+      213: -6530682492350809866
+    second: Pocket_Selector (1)_5
+  - first:
+      213: -4465738855735266896
+    second: Pocket_Selector (1)_6
+  - first:
+      213: -8627706425828844572
+    second: Pocket_Selector (1)_7
+  - first:
+      213: 3886848458166604525
+    second: Pocket_Selector (1)_8
+  - first:
+      213: 4668980729127626420
+    second: Pocket_Selector (1)_9
+  - first:
+      213: 1834876505910669937
+    second: Pocket_Selector (1)_10
+  - first:
+      213: 2033463594807942843
+    second: Pocket_Selector (1)_11
+  - first:
+      213: 4370993052430431987
+    second: Pocket_Selector (1)_12
+  - first:
+      213: -8546376912327686871
+    second: Pocket_Selector (1)_13
+  - first:
+      213: 1089081857774750889
+    second: Pocket_Selector (1)_14
+  - first:
+      213: 66096040612123953
+    second: Pocket_Selector (1)_15
+  - first:
+      213: -5615045303071740608
+    second: Pocket_Selector (1)_16
+  - first:
+      213: 6325087796949331636
+    second: Pocket_Selector (1)_17
+  - first:
+      213: 2680928059683555669
+    second: Pocket_Selector (1)_18
+  - first:
+      213: 370290019191936716
+    second: Pocket_Selector (1)_0
+  - first:
+      213: 5947299612911239580
+    second: Pocket_Selector (1)_1
+  - first:
+      213: -8613990945849410338
+    second: Pocket_Selector (1)_2
+  - first:
+      213: 5832947794683617665
+    second: Pocket_Selector (1)_3
+  - first:
+      213: 420044525805586880
+    second: Pocket_Selector (1)_4
+  - first:
+      213: -4789010482126412139
+    second: Pocket_Selector (1)_5
+  - first:
+      213: 3372792265466368449
+    second: Pocket_Selector (1)_6
+  - first:
+      213: 4735228371427490631
+    second: Pocket_Selector (1)_7
+  - first:
+      213: -2249928967979722347
+    second: Pocket_Selector (1)_8
+  - first:
+      213: -6944391969528620510
+    second: Pocket_Selector (1)_9
+  - first:
+      213: 458992269458791335
+    second: Pocket_Selector (1)_10
+  - first:
+      213: 1659596195488363080
+    second: Pocket_Selector (1)_11
+  - first:
+      213: 2146644861393459555
+    second: Pocket_Selector (1)_12
+  - first:
+      213: -823555368050908050
+    second: Pocket_Selector (1)_13
+  - first:
+      213: -1558700853669065346
+    second: Pocket_Selector (1)_14
+  - first:
+      213: 653622393075165169
+    second: Pocket_Selector (1)_15
+  - first:
+      213: 1011576448179489259
+    second: Pocket_Selector (1)_16
+  - first:
+      213: -5970347859962557653
+    second: Pocket_Selector (1)_17
+  - first:
+      213: 7649348361472339783
+    second: Pocket_Selector (1)_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6dec18fc8832500800000000000000
+      internalID: 370290019191936716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c918460ec7d098250800000000000000
+      internalID: 5947299612911239580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf636afd4f47880800000000000000
+      internalID: -8613990945849410338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e38f6d1bc2f050800000000000000
+      internalID: 5832947794683617665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94d7e454c44d500800000000000000
+      internalID: 420044525805586880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ab3bf6540a8db0800000000000000
+      internalID: -4789010482126412139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1de4412b09ece20800000000000000
+      internalID: 3372792265466368449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b79419d19e6b140800000000000000
+      internalID: 4735228371427490631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 112
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59915b53685a6c0e0800000000000000
+      internalID: -2249928967979722347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22adb23fb4090af90800000000000000
+      internalID: -6944391969528620510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abddb7890bae5600800000000000000
+      internalID: 458992269458791335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427ca662f1180710800000000000000
+      internalID: 1659596195488363080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3695646c02a6acd10800000000000000
+      internalID: 2146644861393459555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a57291c42294f0800000000000000
+      internalID: -823555368050908050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d05f9f4d16e5ae0800000000000000
+      internalID: -1558700853669065346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76c7c7a12221900800000000000000
+      internalID: 653622393075165169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c3e88b67d90e00800000000000000
+      internalID: 1011576448179489259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0b6de040152da0800000000000000
+      internalID: -5970347859962557653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pocket_Selector (1)_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 38
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f66c88ec1f72a60800000000000000
+      internalID: 7649348361472339783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

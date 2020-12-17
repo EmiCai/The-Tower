@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4ac801de803d541852ad858cf7c6c4, type: 3}
+  m_Name: convMaman
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: 6a02d32355834224095b88049d2db5fd, type: 2}
+    dialogue: "Mon chou, t'es s\xFBr que tu veux quitter la maison ? Le monde ext\xE9rieur
+      est plein de\ndanger, si tu restes ici tu n'auras rien\n\xE0 perdre. Ton avenir
+      est assur\xE9."
+  - speaker: {fileID: 11400000, guid: 6a02d32355834224095b88049d2db5fd, type: 2}
+    dialogue: "Je ne comprend vraiment pas pourquoi\ntu t'abstines \xE0 partir d'ici."
+  - speaker: {fileID: 11400000, guid: 6a02d32355834224095b88049d2db5fd, type: 2}
+    dialogue: 'Soit. Nous te laissons 1 ans pour nous
+
+      montrer tes preuves. '

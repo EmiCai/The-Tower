@@ -1,0 +1,3446 @@
+fileFormatVersion: 2
+guid: 8e860d5370c5a324ab201f83bdfd8e6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3875422212671668646
+    second: Eglise_0
+  - first:
+      213: 3989893862950812264
+    second: Eglise_1
+  - first:
+      213: 6641451907303167061
+    second: Eglise_2
+  - first:
+      213: -312374129810230541
+    second: Eglise_3
+  - first:
+      213: 3340568947456568841
+    second: Eglise_4
+  - first:
+      213: -2318343251944942291
+    second: Eglise_5
+  - first:
+      213: -6358219140548671707
+    second: Eglise_6
+  - first:
+      213: 333868134342337520
+    second: Eglise_7
+  - first:
+      213: -597317556070161444
+    second: Eglise_8
+  - first:
+      213: 6931900234843202312
+    second: Eglise_9
+  - first:
+      213: 5427315634430175740
+    second: Eglise_10
+  - first:
+      213: -6259970341460795266
+    second: Eglise_11
+  - first:
+      213: -8381322607925271432
+    second: Eglise_12
+  - first:
+      213: -8633467937445628150
+    second: Eglise_13
+  - first:
+      213: 7953679532495897196
+    second: Eglise_14
+  - first:
+      213: 8377986612546597472
+    second: Eglise_15
+  - first:
+      213: 6119542713161220045
+    second: Eglise_16
+  - first:
+      213: -2817159245027333692
+    second: Eglise_17
+  - first:
+      213: 249097468696104867
+    second: Eglise_18
+  - first:
+      213: 8620055490660161486
+    second: Eglise_19
+  - first:
+      213: 4658530564557437312
+    second: Eglise_20
+  - first:
+      213: -1329706895711522134
+    second: Eglise_21
+  - first:
+      213: 8079410554764216939
+    second: Eglise_22
+  - first:
+      213: 2732896167647723561
+    second: Eglise_23
+  - first:
+      213: -2085165185483254757
+    second: Eglise_24
+  - first:
+      213: 2440645032449621279
+    second: Eglise_25
+  - first:
+      213: -6662407735707937071
+    second: Eglise_26
+  - first:
+      213: -3340758441021225684
+    second: Eglise_27
+  - first:
+      213: 2184194964163029811
+    second: Eglise_28
+  - first:
+      213: 4974254763945157756
+    second: Eglise_29
+  - first:
+      213: -2934521318538676968
+    second: Eglise_30
+  - first:
+      213: -1525159491460205115
+    second: Eglise_31
+  - first:
+      213: -5618174944019498577
+    second: Eglise_32
+  - first:
+      213: 4820320764167506783
+    second: Eglise_33
+  - first:
+      213: 6734608531318741512
+    second: Eglise_34
+  - first:
+      213: 2474060588013769888
+    second: Eglise_35
+  - first:
+      213: -1921435894798588053
+    second: Eglise_36
+  - first:
+      213: 8912973478607473263
+    second: Eglise_37
+  - first:
+      213: 1845354517172576851
+    second: Eglise_38
+  - first:
+      213: -3191466237534910157
+    second: Eglise_39
+  - first:
+      213: 8773405123162755874
+    second: Eglise_40
+  - first:
+      213: 7202753891969697685
+    second: Eglise_41
+  - first:
+      213: -1910342404610694904
+    second: Eglise_42
+  - first:
+      213: -6265814307529274731
+    second: Eglise_43
+  - first:
+      213: -5720507225862295021
+    second: Eglise_44
+  - first:
+      213: -4003572509207982146
+    second: Eglise_45
+  - first:
+      213: -5257001777808596523
+    second: Eglise_46
+  - first:
+      213: -572672215109883792
+    second: Eglise_47
+  - first:
+      213: 5354324890679634087
+    second: Eglise_48
+  - first:
+      213: 5424482160633176439
+    second: Eglise_49
+  - first:
+      213: -4272513267371929320
+    second: Eglise_50
+  - first:
+      213: 4268071641009907508
+    second: Eglise_51
+  - first:
+      213: 2319494863954764750
+    second: Eglise_52
+  - first:
+      213: -6871551578748284608
+    second: Eglise_53
+  - first:
+      213: -1657247867082588340
+    second: Eglise_54
+  - first:
+      213: -6118424313256493521
+    second: Eglise_55
+  - first:
+      213: 5041238109936623064
+    second: Eglise_56
+  - first:
+      213: 8975915261694442697
+    second: Eglise_57
+  - first:
+      213: 8416690665351428449
+    second: Eglise_58
+  - first:
+      213: 2674948388007798745
+    second: Eglise_59
+  - first:
+      213: 3291412091823177002
+    second: Eglise_60
+  - first:
+      213: -4165219149706688391
+    second: Eglise_61
+  - first:
+      213: -4806187770442304987
+    second: Eglise_62
+  - first:
+      213: 8395013597284825398
+    second: Eglise_63
+  - first:
+      213: 359529596305986991
+    second: Eglise_64
+  - first:
+      213: -7050554950873432622
+    second: Eglise_65
+  - first:
+      213: 7407140281057602622
+    second: Eglise_66
+  - first:
+      213: 1016281890117652006
+    second: Eglise_67
+  - first:
+      213: 1119545426392443915
+    second: Eglise_68
+  - first:
+      213: 5239828432101629422
+    second: Eglise_69
+  - first:
+      213: -6445264271207750587
+    second: Eglise_70
+  - first:
+      213: -3656131880377695540
+    second: Eglise_71
+  - first:
+      213: -5535756188158088373
+    second: Eglise_72
+  - first:
+      213: -2004405020296567269
+    second: Eglise_73
+  - first:
+      213: -474884912566611636
+    second: Eglise_74
+  - first:
+      213: 323478744465219159
+    second: Eglise_75
+  - first:
+      213: -8023693040443493933
+    second: Eglise_76
+  - first:
+      213: -5120341944152255607
+    second: Eglise_77
+  - first:
+      213: 3304224577518667644
+    second: Eglise_78
+  - first:
+      213: -1505527042399769493
+    second: Eglise_79
+  - first:
+      213: -97100325289721866
+    second: Eglise_80
+  - first:
+      213: -1151237060727114538
+    second: Eglise_81
+  - first:
+      213: 3761286672911015110
+    second: Eglise_82
+  - first:
+      213: -6358679111618404243
+    second: Eglise_83
+  - first:
+      213: 7545682705547857744
+    second: Eglise_84
+  - first:
+      213: -8324724053648124524
+    second: Eglise_85
+  - first:
+      213: -4223066848780899421
+    second: Eglise_86
+  - first:
+      213: -5888393000043798662
+    second: Eglise_87
+  - first:
+      213: 8880966415805093941
+    second: Eglise_88
+  - first:
+      213: -124549912506063113
+    second: Eglise_89
+  - first:
+      213: 5169219202732157844
+    second: Eglise_90
+  - first:
+      213: -6788062240121572037
+    second: Eglise_91
+  - first:
+      213: 1146708644220576504
+    second: Eglise_92
+  - first:
+      213: -6697591086635517853
+    second: Eglise_93
+  - first:
+      213: -1898421395058355173
+    second: Eglise_94
+  - first:
+      213: -7458646300204149656
+    second: Eglise_95
+  - first:
+      213: 4510413156528283744
+    second: Eglise_96
+  - first:
+      213: -6875345347535103789
+    second: Eglise_97
+  - first:
+      213: -4752158042416828699
+    second: Eglise_98
+  - first:
+      213: 8596909152262493429
+    second: Eglise_99
+  - first:
+      213: -6635117573602118788
+    second: Eglise_100
+  - first:
+      213: -2604185513822087094
+    second: Eglise_101
+  - first:
+      213: -2341232402695545066
+    second: Eglise_102
+  - first:
+      213: 225128003477022631
+    second: Eglise_103
+  - first:
+      213: -5257058161909804914
+    second: Eglise_104
+  - first:
+      213: -5322336835163819002
+    second: Eglise_105
+  - first:
+      213: -7358208104228994178
+    second: Eglise_106
+  - first:
+      213: -8908570572801015557
+    second: Eglise_107
+  - first:
+      213: 3205708504359303318
+    second: Eglise_108
+  - first:
+      213: -6256083885534512524
+    second: Eglise_109
+  - first:
+      213: 6585516797833414952
+    second: Eglise_110
+  - first:
+      213: 5640399550356445499
+    second: Eglise_111
+  - first:
+      213: -4621595261790621695
+    second: Eglise_112
+  - first:
+      213: 6488667436447024201
+    second: Eglise_113
+  - first:
+      213: 4354815337403281189
+    second: Eglise_114
+  - first:
+      213: -1273377536902102650
+    second: Eglise_115
+  - first:
+      213: 7885088744691096698
+    second: Eglise_116
+  - first:
+      213: -4984352301953370536
+    second: Eglise_117
+  - first:
+      213: -8042415954303599191
+    second: Eglise_118
+  - first:
+      213: 3073307535545342012
+    second: Eglise_119
+  - first:
+      213: 2689878529831831988
+    second: Eglise_120
+  - first:
+      213: 9094121150454810907
+    second: Eglise_121
+  - first:
+      213: 2848972458704011980
+    second: Eglise_122
+  - first:
+      213: -7680160029463938098
+    second: Eglise_123
+  - first:
+      213: 300080202237530568
+    second: Eglise_124
+  - first:
+      213: 152468728527487426
+    second: Eglise_125
+  - first:
+      213: 1246087524865428078
+    second: Eglise_126
+  - first:
+      213: -8357559181974875432
+    second: Eglise_127
+  - first:
+      213: -5249012102228768050
+    second: Eglise_128
+  - first:
+      213: 1966779866337077695
+    second: Eglise_129
+  - first:
+      213: -8547196129768493381
+    second: Eglise_130
+  - first:
+      213: -5327286718046221055
+    second: Eglise_131
+  - first:
+      213: -5881762306399704591
+    second: Eglise_132
+  - first:
+      213: 2307118387063160373
+    second: Eglise_133
+  - first:
+      213: 5059529953876565264
+    second: Eglise_134
+  - first:
+      213: -3223372468214104273
+    second: Eglise_135
+  - first:
+      213: -6700637542731199522
+    second: Eglise_136
+  - first:
+      213: 3375352234660371135
+    second: Eglise_137
+  - first:
+      213: 2008481311806235500
+    second: Eglise_138
+  - first:
+      213: 1496092606768625852
+    second: Eglise_139
+  - first:
+      213: -2133843657978941682
+    second: Eglise_140
+  - first:
+      213: 8042126116143907506
+    second: Eglise_141
+  - first:
+      213: -8657595858070190955
+    second: Eglise_142
+  - first:
+      213: -3751573850884208659
+    second: Eglise_143
+  - first:
+      213: -3984699286062007855
+    second: Eglise_144
+  - first:
+      213: -7879882485682700493
+    second: Eglise_145
+  - first:
+      213: -6939122160413339800
+    second: Eglise_146
+  - first:
+      213: 8329822666056488745
+    second: Eglise_147
+  - first:
+      213: -2836805288394519022
+    second: Eglise_148
+  - first:
+      213: 6644507171338592453
+    second: Eglise_149
+  - first:
+      213: 4683660516113032646
+    second: Eglise_150
+  - first:
+      213: 6767828572865516551
+    second: Eglise_151
+  - first:
+      213: 1590374516228719357
+    second: Eglise_152
+  - first:
+      213: 4142155990063807692
+    second: Eglise_153
+  - first:
+      213: -6793862553137951331
+    second: Eglise_154
+  - first:
+      213: -116544080280269411
+    second: Eglise_155
+  - first:
+      213: -8751956260180586933
+    second: Eglise_156
+  - first:
+      213: -8339744698613924729
+    second: Eglise_157
+  - first:
+      213: -6224413632440844688
+    second: Eglise_158
+  - first:
+      213: 702069831774838823
+    second: Eglise_159
+  - first:
+      213: -2037801099472768434
+    second: Eglise_160
+  - first:
+      213: -2661869081426677384
+    second: Eglise_161
+  - first:
+      213: 3302948829545506756
+    second: Eglise_162
+  - first:
+      213: -8387499610880739751
+    second: Eglise_163
+  - first:
+      213: -418589313600345238
+    second: Eglise_164
+  - first:
+      213: -3075732681820688134
+    second: Eglise_165
+  - first:
+      213: -8785962170137383650
+    second: Eglise_166
+  - first:
+      213: 4753816007507644527
+    second: Eglise_167
+  - first:
+      213: -8907931306133696648
+    second: Eglise_168
+  - first:
+      213: 3843106758662992435
+    second: Eglise_169
+  - first:
+      213: -5574261409594369704
+    second: Eglise_170
+  - first:
+      213: -9062919066352209961
+    second: Eglise_171
+  - first:
+      213: 5972092472551997682
+    second: Eglise_172
+  - first:
+      213: 2657208613933528135
+    second: Eglise_173
+  - first:
+      213: 7584083101234346232
+    second: Eglise_174
+  - first:
+      213: 8948284878124716614
+    second: Eglise_175
+  - first:
+      213: 3679818070352860229
+    second: Eglise_176
+  - first:
+      213: 8231492250171473669
+    second: Eglise_177
+  - first:
+      213: 1929035699198258721
+    second: Eglise_178
+  - first:
+      213: 1985994926960125463
+    second: Eglise_179
+  - first:
+      213: -5727621799582874235
+    second: Eglise_180
+  - first:
+      213: -5872249553183214765
+    second: Eglise_181
+  - first:
+      213: 1899548421323799170
+    second: Eglise_182
+  - first:
+      213: 5760883816930699056
+    second: Eglise_183
+  - first:
+      213: -144764724940612360
+    second: Eglise_184
+  - first:
+      213: 1451097911256010266
+    second: Eglise_185
+  - first:
+      213: -6736736913134822416
+    second: Eglise_186
+  - first:
+      213: 2477371773325203929
+    second: Eglise_187
+  - first:
+      213: -6284538934754741613
+    second: Eglise_188
+  - first:
+      213: -109808575024372798
+    second: Eglise_189
+  - first:
+      213: 1710750233209444331
+    second: Eglise_190
+  - first:
+      213: -3202015770952058038
+    second: Eglise_191
+  - first:
+      213: 5435018113708160706
+    second: Eglise_192
+  - first:
+      213: 7779140105635506396
+    second: Eglise_193
+  - first:
+      213: 7242138576983646031
+    second: Eglise_194
+  - first:
+      213: 6045803587957815757
+    second: Eglise_195
+  - first:
+      213: -2909989068389328080
+    second: Eglise_196
+  - first:
+      213: 7798753894851193466
+    second: Eglise_197
+  - first:
+      213: 3865378726001813359
+    second: Eglise_198
+  - first:
+      213: -58644980068608684
+    second: Eglise_199
+  - first:
+      213: -8558481957340571910
+    second: Eglise_200
+  - first:
+      213: -110066819627953509
+    second: Eglise_201
+  - first:
+      213: -4793388932024620967
+    second: Eglise_202
+  - first:
+      213: -6090364334257953794
+    second: Eglise_203
+  - first:
+      213: 2871116900051553973
+    second: Eglise_204
+  - first:
+      213: 6905455744888375897
+    second: Eglise_205
+  - first:
+      213: -2408252546684865694
+    second: Eglise_206
+  - first:
+      213: 1371296926296501389
+    second: Eglise_207
+  - first:
+      213: -408598580680406928
+    second: Eglise_208
+  - first:
+      213: -7728161867331174956
+    second: Eglise_209
+  - first:
+      213: 2765091807092935114
+    second: Eglise_210
+  - first:
+      213: -532007197015662822
+    second: Eglise_211
+  - first:
+      213: -7666138718707504198
+    second: Eglise_212
+  - first:
+      213: -8595448844807131903
+    second: Eglise_213
+  - first:
+      213: -7422872344765983387
+    second: Eglise_214
+  - first:
+      213: -4735954030164434173
+    second: Eglise_215
+  - first:
+      213: -8484804857653649721
+    second: Eglise_216
+  - first:
+      213: 6893640592953740595
+    second: Eglise_217
+  - first:
+      213: -200799805754803735
+    second: Eglise_218
+  - first:
+      213: 2317801174396038340
+    second: Eglise_219
+  - first:
+      213: 5575259276445046456
+    second: Eglise_220
+  - first:
+      213: 9171965557270957722
+    second: Eglise_221
+  - first:
+      213: -3593983977704654397
+    second: Eglise_222
+  - first:
+      213: -8228701584210155381
+    second: Eglise_223
+  - first:
+      213: -8497537621567060603
+    second: Eglise_224
+  - first:
+      213: -3582900969313325927
+    second: Eglise_225
+  - first:
+      213: -3989375471656862163
+    second: Eglise_226
+  - first:
+      213: 7647716785596106502
+    second: Eglise_227
+  - first:
+      213: -8073632096989885116
+    second: Eglise_228
+  - first:
+      213: -3276148395402364026
+    second: Eglise_229
+  - first:
+      213: 8053406602369266711
+    second: Eglise_230
+  - first:
+      213: 872529419642448248
+    second: Eglise_231
+  - first:
+      213: 8737591020321927579
+    second: Eglise_232
+  - first:
+      213: 7425470041422611723
+    second: Eglise_233
+  - first:
+      213: 1818972832321665545
+    second: Eglise_234
+  - first:
+      213: 5024618304698547797
+    second: Eglise_235
+  - first:
+      213: 1585667611628830662
+    second: Eglise_236
+  - first:
+      213: -5286623795604022114
+    second: Eglise_237
+  - first:
+      213: 8625667994581492711
+    second: Eglise_238
+  - first:
+      213: -4459380472861704759
+    second: Eglise_239
+  - first:
+      213: -1145325884177613343
+    second: Eglise_240
+  - first:
+      213: 8353844447832223126
+    second: Eglise_241
+  - first:
+      213: 2558559189457168100
+    second: Eglise_242
+  - first:
+      213: -2626260669157137539
+    second: Eglise_243
+  - first:
+      213: 8905151680070353904
+    second: Eglise_244
+  - first:
+      213: -414159305550758779
+    second: Eglise_245
+  - first:
+      213: -1378016917389209209
+    second: Eglise_246
+  - first:
+      213: 2318559550001919065
+    second: Eglise_247
+  - first:
+      213: 1452470642325500022
+    second: Eglise_248
+  - first:
+      213: -5992161847400299632
+    second: Eglise_249
+  - first:
+      213: 5648452276779058156
+    second: Eglise_250
+  - first:
+      213: 6228849274626615370
+    second: Eglise_251
+  - first:
+      213: -4079606609042159781
+    second: Eglise_252
+  - first:
+      213: 1380808268962644518
+    second: Eglise_253
+  - first:
+      213: -1073770572672994710
+    second: Eglise_254
+  - first:
+      213: 8651088195018720787
+    second: Eglise_255
+  - first:
+      213: 6253680751430389961
+    second: Eglise_256
+  - first:
+      213: -3472480869383418772
+    second: Eglise_257
+  - first:
+      213: -2077120077922777632
+    second: Eglise_258
+  - first:
+      213: 4644774907452221088
+    second: Eglise_259
+  - first:
+      213: 4499848150189534142
+    second: Eglise_260
+  - first:
+      213: 6878289602568827065
+    second: Eglise_261
+  - first:
+      213: -4056734423317663921
+    second: Eglise_262
+  - first:
+      213: 3819697098117802409
+    second: Eglise_263
+  - first:
+      213: -7348144546274055980
+    second: Eglise_264
+  - first:
+      213: 2422710857182359695
+    second: Eglise_265
+  - first:
+      213: 1361852219842882038
+    second: Eglise_266
+  - first:
+      213: -4354839136788924619
+    second: Eglise_267
+  - first:
+      213: -3460750441014309786
+    second: Eglise_268
+  - first:
+      213: -5998596565755750102
+    second: Eglise_269
+  - first:
+      213: -241744517174700670
+    second: Eglise_270
+  - first:
+      213: 397560538385317929
+    second: Eglise_271
+  - first:
+      213: -2351537924828112361
+    second: Eglise_272
+  - first:
+      213: -3157258512799677716
+    second: Eglise_273
+  - first:
+      213: -6575127728395050142
+    second: Eglise_274
+  - first:
+      213: -8814251922025666312
+    second: Eglise_275
+  - first:
+      213: -5837210882880384397
+    second: Eglise_276
+  - first:
+      213: -7562060890407187226
+    second: Eglise_277
+  - first:
+      213: -3547070164569861632
+    second: Eglise_278
+  - first:
+      213: -8117226848836487446
+    second: Eglise_279
+  - first:
+      213: -8708340553909671237
+    second: Eglise_280
+  - first:
+      213: 8942575550368772372
+    second: Eglise_281
+  - first:
+      213: -6297344842677687602
+    second: Eglise_282
+  - first:
+      213: -5270018672158159697
+    second: Eglise_283
+  - first:
+      213: -8843064909027842848
+    second: Eglise_284
+  - first:
+      213: -538781139596089110
+    second: Eglise_285
+  - first:
+      213: 8060964244939979206
+    second: Eglise_286
+  - first:
+      213: 8822177810306065272
+    second: Eglise_287
+  - first:
+      213: 5752198798169273968
+    second: Eglise_288
+  - first:
+      213: -5611612717966160040
+    second: Eglise_289
+  - first:
+      213: -1113379038203894288
+    second: Eglise_290
+  - first:
+      213: -8357381327517634573
+    second: Eglise_291
+  - first:
+      213: -5087295259811921134
+    second: Eglise_292
+  - first:
+      213: 7696664186203937963
+    second: Eglise_293
+  - first:
+      213: 4158673852925901817
+    second: Eglise_294
+  - first:
+      213: 5497110574766792678
+    second: Eglise_295
+  - first:
+      213: 3392421706542829327
+    second: Eglise_296
+  - first:
+      213: -4776611266570679097
+    second: Eglise_297
+  - first:
+      213: -2641297733939015250
+    second: Eglise_298
+  - first:
+      213: -6316889105289557763
+    second: Eglise_299
+  - first:
+      213: -2034924179183529595
+    second: Eglise_300
+  - first:
+      213: -3573961681902859035
+    second: Eglise_301
+  - first:
+      213: 3747598373274652739
+    second: Eglise_302
+  - first:
+      213: 4012401019947212418
+    second: Eglise_303
+  - first:
+      213: -1582299003507956191
+    second: Eglise_304
+  - first:
+      213: -9156136063887580461
+    second: Eglise_305
+  - first:
+      213: 5409581539295009447
+    second: Eglise_306
+  - first:
+      213: 3703309913946208054
+    second: Eglise_307
+  - first:
+      213: -5188675514652292140
+    second: Eglise_308
+  - first:
+      213: 3697741553542410656
+    second: Eglise_309
+  - first:
+      213: -298778115938732241
+    second: Eglise_310
+  - first:
+      213: 4144028263372784001
+    second: Eglise_311
+  - first:
+      213: 4427154438129308721
+    second: Eglise_312
+  - first:
+      213: -2674365158573906598
+    second: Eglise_313
+  - first:
+      213: -4354336393851739527
+    second: Eglise_314
+  - first:
+      213: 2652389725610813596
+    second: Eglise_315
+  - first:
+      213: 8529321490543834204
+    second: Eglise_316
+  - first:
+      213: 7593026772062835237
+    second: Eglise_317
+  - first:
+      213: 5599263491395726914
+    second: Eglise_318
+  - first:
+      213: 6867886038139065474
+    second: Eglise_319
+  - first:
+      213: -4791443490354151593
+    second: Eglise_320
+  - first:
+      213: -3052923725798032298
+    second: Eglise_321
+  - first:
+      213: 660176185863061772
+    second: Eglise_322
+  - first:
+      213: 3938706262108741183
+    second: Eglise_323
+  - first:
+      213: -3670736947825857859
+    second: Eglise_324
+  - first:
+      213: -723888089608805085
+    second: Eglise_325
+  - first:
+      213: 1281096994166271543
+    second: Eglise_326
+  - first:
+      213: 8768253076443076333
+    second: Eglise_327
+  - first:
+      213: 5769923106868055854
+    second: Eglise_328
+  - first:
+      213: -4754056762070659364
+    second: Eglise_329
+  - first:
+      213: -5562908359612355145
+    second: Eglise_330
+  - first:
+      213: -7355745389586472179
+    second: Eglise_331
+  - first:
+      213: -7694807699921997172
+    second: Eglise_332
+  - first:
+      213: -4738364726008651353
+    second: Eglise_333
+  - first:
+      213: -7530414059883027885
+    second: Eglise_334
+  - first:
+      213: 6051427565122578790
+    second: Eglise_335
+  - first:
+      213: 6406688122065821559
+    second: Eglise_336
+  - first:
+      213: -161223672720012900
+    second: Eglise_337
+  - first:
+      213: 8072862157977160307
+    second: Eglise_338
+  - first:
+      213: 6439528769440366710
+    second: Eglise_339
+  - first:
+      213: 7140807469159192224
+    second: Eglise_340
+  - first:
+      213: 7298367217183783953
+    second: Eglise_341
+  - first:
+      213: 2489681951920477657
+    second: Eglise_342
+  - first:
+      213: 6236166286855681793
+    second: Eglise_343
+  - first:
+      213: -6095186612355379555
+    second: Eglise_344
+  - first:
+      213: 8325519383436411602
+    second: Eglise_345
+  - first:
+      213: -7075684953929971683
+    second: Eglise_346
+  - first:
+      213: -4668830125033013778
+    second: Eglise_347
+  - first:
+      213: 8305107206658355562
+    second: Eglise_348
+  - first:
+      213: -6159296681253203395
+    second: Eglise_349
+  - first:
+      213: 2528043459097850509
+    second: Eglise_350
+  - first:
+      213: -7542229314400943815
+    second: Eglise_351
+  - first:
+      213: 7750076320776150325
+    second: Eglise_352
+  - first:
+      213: -3974975724791732277
+    second: Eglise_353
+  - first:
+      213: 7966458251898878336
+    second: Eglise_354
+  - first:
+      213: -3420885235831785511
+    second: Eglise_355
+  - first:
+      213: 1495688613917623070
+    second: Eglise_356
+  - first:
+      213: 4919023601647248732
+    second: Eglise_357
+  - first:
+      213: -2520119639029325447
+    second: Eglise_358
+  - first:
+      213: -2775004753315064151
+    second: Eglise_359
+  - first:
+      213: -1799060445656344054
+    second: Eglise_360
+  - first:
+      213: -3766714581886424735
+    second: Eglise_361
+  - first:
+      213: -319198079093056469
+    second: Eglise_362
+  - first:
+      213: 2333197193308437121
+    second: Eglise_363
+  - first:
+      213: -4064791337189237750
+    second: Eglise_364
+  - first:
+      213: 3861598719952564205
+    second: Eglise_365
+  - first:
+      213: -9213657248809897769
+    second: Eglise_366
+  - first:
+      213: -6729756174960390567
+    second: Eglise_367
+  - first:
+      213: 4053652081689517600
+    second: Eglise_368
+  - first:
+      213: -7744197390263086729
+    second: Eglise_369
+  - first:
+      213: -2694157668839536329
+    second: Eglise_370
+  - first:
+      213: 8820662380050230932
+    second: Eglise_371
+  - first:
+      213: -6114686371213408865
+    second: Eglise_372
+  - first:
+      213: 2892160133411315911
+    second: Eglise_373
+  - first:
+      213: 4999173928376398130
+    second: Eglise_374
+  - first:
+      213: -8955912402676640067
+    second: Eglise_375
+  - first:
+      213: 8140529260252466697
+    second: Eglise_376
+  - first:
+      213: -451347894587636649
+    second: Eglise_377
+  - first:
+      213: -2515702643863146705
+    second: Eglise_378
+  - first:
+      213: 2501017822025794897
+    second: Eglise_379
+  - first:
+      213: 4925910320206491619
+    second: Eglise_380
+  - first:
+      213: 2744875492048103405
+    second: Eglise_381
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eglise_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a104f438f348c530800000000000000
+      internalID: 3875422212671668646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ab1b83453fe5730800000000000000
+      internalID: 3989893862950812264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55455af525d2b2c50800000000000000
+      internalID: 6641451907303167061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b3ab42693aabf0800000000000000
+      internalID: -312374129810230541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e69d432c51c5e20800000000000000
+      internalID: 3340568947456568841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d560781793dfd0800000000000000
+      internalID: -2318343251944942291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c183016113c7a0800000000000000
+      internalID: -6358219140548671707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f32c4d9c4322a400800000000000000
+      internalID: 333868134342337520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd36554f8d6e5b7f0800000000000000
+      internalID: -597317556070161444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a64c698e033060800000000000000
+      internalID: 6931900234843202312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9622a70d2b15b40800000000000000
+      internalID: 5427315634430175740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70afb4242e1029a0800000000000000
+      internalID: -6259970341460795266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874e9a68e7f8fab80800000000000000
+      internalID: -8381322607925271432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0734d827a2cf2880800000000000000
+      internalID: -8633467937445628150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6286b7f465216e60800000000000000
+      internalID: 7953679532495897196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06271d58f66944470800000000000000
+      internalID: 8377986612546597472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcffdc5ccabfce450800000000000000
+      internalID: 6119542713161220045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c92074b79077e8d0800000000000000
+      internalID: -2817159245027333692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af8418f3d8f47300800000000000000
+      internalID: 249097468696104867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec754f83cc690a770800000000000000
+      internalID: 8620055490660161486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089feb3dddc66a040800000000000000
+      internalID: 4658530564557437312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa23ab99f9eeb8de0800000000000000
+      internalID: -1329706895711522134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a434fc715df1070800000000000000
+      internalID: 8079410554764216939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9204ba0c5923de520800000000000000
+      internalID: 2732896167647723561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14524dbf410013e0800000000000000
+      internalID: -2085165185483254757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d3bf5d9b9eed120800000000000000
+      internalID: 2440645032449621279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6505c967f5a83a0800000000000000
+      internalID: -6662407735707937071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ca82e5ed33a1d0800000000000000
+      internalID: -3340758441021225684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b622f5fb1df4e10800000000000000
+      internalID: 2184194964163029811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74ee336a5a180540800000000000000
+      internalID: 4974254763945157756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815f0b6986c7647d0800000000000000
+      internalID: -2934521318538676968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5f2bde58b85dae0800000000000000
+      internalID: -1525159491460205115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9b7bf97ab3802b0800000000000000
+      internalID: -5618174944019498577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc4a3223835e240800000000000000
+      internalID: 4820320764167506783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a919a17c2267d50800000000000000
+      internalID: 6734608531318741512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4da552ff0a55220800000000000000
+      internalID: 2474060588013769888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6768dfdb30b555e0800000000000000
+      internalID: -1921435894798588053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a40e4e72e31bb70800000000000000
+      internalID: 8912973478607473263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352ebb008240c9910800000000000000
+      internalID: 1845354517172576851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394417bd52a5b3d0800000000000000
+      internalID: -3191466237534910157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22355bcd97561c970800000000000000
+      internalID: 8773405123162755874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5978a6fb08255f360800000000000000
+      internalID: 7202753891969697685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80160d554b91d75e0800000000000000
+      internalID: -1910342404610694904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a4823c51b5b09a0800000000000000
+      internalID: -6265814307529274731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123c639cfcac90b0800000000000000
+      internalID: -5720507225862295021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf8324c3047078c0800000000000000
+      internalID: -4003572509207982146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12f126cb06b07b0800000000000000
+      internalID: -5257001777808596523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a3ad87a57d08f0800000000000000
+      internalID: -572672215109883792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8edf0ae126e4a40800000000000000
+      internalID: 5354324890679634087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ebf2f8c1a74b40800000000000000
+      internalID: 5424482160633176439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8111720f1dbf4b4c0800000000000000
+      internalID: -4272513267371929320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43760565b8c3b3b30800000000000000
+      internalID: 4268071641009907508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ed502a40803020800000000000000
+      internalID: 2319494863954764750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0411fe40f3853a0a0800000000000000
+      internalID: -6871551578748284608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb4c968d54009e0800000000000000
+      internalID: -1657247867082588340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ebb3ff08df61ba0800000000000000
+      internalID: -6118424313256493521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1fe2f95316f540800000000000000
+      internalID: 5041238109936623064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccfd43cf5bd09c70800000000000000
+      internalID: 8975915261694442697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1693e9c01971ec470800000000000000
+      internalID: 8416690665351428449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d765bbe2635f1520800000000000000
+      internalID: 2674948388007798745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dbb8edbd17dad20800000000000000
+      internalID: 3291412091823177002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978041a604b2236c0800000000000000
+      internalID: -4165219149706688391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522b5f2efadfc4db0800000000000000
+      internalID: -4806187770442304987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6397cb65364118470800000000000000
+      internalID: 8395013597284825398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5de02534e4df400800000000000000
+      internalID: 359529596305986991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd31dba0a5672e90800000000000000
+      internalID: -7050554950873432622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cece547d27bc660800000000000000
+      internalID: 7407140281057602622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e002c9efe8a1e00800000000000000
+      internalID: 1016281890117652006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ce80a32ac698f00800000000000000
+      internalID: 1119545426392443915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd86b723c97b840800000000000000
+      internalID: 5239828432101629422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54425273b42dd86a0800000000000000
+      internalID: -6445264271207750587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24b120d6fc24dc0800000000000000
+      internalID: -3656131880377695540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4baaa9931b0d23b0800000000000000
+      internalID: -5535756188158088373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a63bf04cee24e0800000000000000
+      internalID: -2004405020296567269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41564520bed869f0800000000000000
+      internalID: -474884912566611636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e1d38443a3d7400800000000000000
+      internalID: 323478744465219159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17799e0bd16a090800000000000000
+      internalID: -8023693040443493933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983954a6124e0f8b0800000000000000
+      internalID: -5120341944152255607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778d192fb6fadd20800000000000000
+      internalID: 3304224577518667644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c640ea12b4b1be0800000000000000
+      internalID: -1505527042399769493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fff783c4c707aef0800000000000000
+      internalID: -97100325289721866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d478172efbf500f0800000000000000
+      internalID: -1151237060727114538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc95450d46c23430800000000000000
+      internalID: 3761286672911015110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e947a90f61c7a0800000000000000
+      internalID: -6358679111618404243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f0df32176a7b860800000000000000
+      internalID: 7545682705547857744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49557295493a87c80800000000000000
+      internalID: -8324724053648124524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abafa76317a465c0800000000000000
+      internalID: -4223066848780899421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f1e76b3c9384ea0800000000000000
+      internalID: -5888393000043798662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5389c3cd6e78f3b70800000000000000
+      internalID: 8880966415805093941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f62544b382854ef0800000000000000
+      internalID: -124549912506063113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b6af82a71ccb740800000000000000
+      internalID: 5169219202732157844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bf487b55fbc1a0800000000000000
+      internalID: -6788062240121572037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f223a7bf6de9ef00800000000000000
+      internalID: 1146708644220576504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368744e54606d03a0800000000000000
+      internalID: -6697591086635517853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b149b89acc377a5e0800000000000000
+      internalID: -1898421395058355173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864dc0325b09d7890800000000000000
+      internalID: -7458646300204149656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060ed116ed4389e30800000000000000
+      internalID: 4510413156528283744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8190465ddd590a0800000000000000
+      internalID: -6875345347535103789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeaa3d3071fc0eb0800000000000000
+      internalID: -4752158042416828699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f419ea535b5e4770800000000000000
+      internalID: 8596909152262493429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c737e7e98b35be3a0800000000000000
+      internalID: -6635117573602118788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489a6f92131cdbd0800000000000000
+      internalID: -2604185513822087094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f92bcb885428fd0800000000000000
+      internalID: -2341232402695545066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eglise_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7ad34f9b0df1300800000000000000
+      internalID: 225128003477022631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
